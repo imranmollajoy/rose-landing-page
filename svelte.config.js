@@ -6,6 +6,10 @@ const config = {
 		adapter: adapter(),
 		prerender: {
 			default: true
+		},
+		paths: {
+			// YOUR github repository name
+			base: '/rose-landing-page'
 		}
 	}
 };
