@@ -1,2 +1,13 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<script>
+	import Uses from '$lib/components/sections/Uses.svelte';
+	import Hero from '../lib/components/sections/Hero.svelte';
+	import MoreInfo from '../lib/components/sections/MoreInfo.svelte';
+	import Queen from '../lib/components/sections/Queen.svelte';
+	import Stats from '../lib/components/sections/Stats.svelte';
+</script>
+
+<Hero />
+<Queen />
+<Uses />
+<Stats />
+<MoreInfo />
