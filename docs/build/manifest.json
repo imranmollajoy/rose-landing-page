@@ -1,14 +1,14 @@
 {
   "src/lib/assets/hero.jpg": {
-    "file": "docs/immutable/assets/hero-0455a4f5.jpg",
+    "file": "_app/immutable/assets/hero-0455a4f5.jpg",
     "src": "src/lib/assets/hero.jpg"
   },
   ".svelte-kit/runtime/client/start.js": {
-    "file": "docs/immutable/start-84f03a5f.js",
+    "file": "_app/immutable/start-da42127a.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
-      "_index-aa37fd0e.js"
+      "_index-0f2e943b.js"
     ],
     "dynamicImports": [
       "src/routes/__layout.svelte",
@@ -17,50 +17,50 @@
     ]
   },
   "src/routes/__layout.svelte": {
-    "file": "docs/immutable/pages/__layout.svelte-2fd176b9.js",
+    "file": "_app/immutable/pages/__layout.svelte-06479a28.js",
     "src": "src/routes/__layout.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-aa37fd0e.js"
+      "_index-0f2e943b.js"
     ],
     "css": [
-      "docs/immutable/assets/__layout-e7679ff5.css"
+      "_app/immutable/assets/__layout-e7679ff5.css"
     ]
   },
   ".svelte-kit/runtime/components/error.svelte": {
-    "file": "docs/immutable/error.svelte-bdf67a33.js",
+    "file": "_app/immutable/error.svelte-d0158d15.js",
     "src": ".svelte-kit/runtime/components/error.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-aa37fd0e.js"
+      "_index-0f2e943b.js"
     ]
   },
   "src/routes/index.svelte": {
-    "file": "docs/immutable/pages/index.svelte-d024137d.js",
+    "file": "_app/immutable/pages/index.svelte-c7eff4ae.js",
     "src": "src/routes/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-aa37fd0e.js"
+      "_index-0f2e943b.js"
     ],
     "css": [
-      "docs/immutable/assets/index-5a66148e.css"
+      "_app/immutable/assets/index-5a66148e.css"
     ],
     "assets": [
-      "docs/immutable/assets/hero-0455a4f5.jpg"
+      "_app/immutable/assets/hero-0455a4f5.jpg"
     ]
   },
-  "_index-aa37fd0e.js": {
-    "file": "docs/immutable/chunks/index-aa37fd0e.js"
+  "_index-0f2e943b.js": {
+    "file": "_app/immutable/chunks/index-0f2e943b.js"
   },
   "src/routes/index.css": {
-    "file": "docs/immutable/assets/index-5a66148e.css",
+    "file": "_app/immutable/assets/index-5a66148e.css",
     "src": "src/routes/index.css"
   },
   "src/routes/__layout.css": {
-    "file": "docs/immutable/assets/__layout-e7679ff5.css",
+    "file": "_app/immutable/assets/__layout-e7679ff5.css",
     "src": "src/routes/__layout.css"
   }
 }
