@@ -4,7 +4,7 @@
     "src": "src/lib/assets/hero.jpg"
   },
   ".svelte-kit/runtime/client/start.js": {
-    "file": "_app/immutable/start-12a50225.js",
+    "file": "_app/immutable/start-6117f0e3.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -55,12 +55,12 @@
   "_index-0f2e943b.js": {
     "file": "_app/immutable/chunks/index-0f2e943b.js"
   },
-  "src/routes/index.css": {
-    "file": "_app/immutable/assets/index-5a66148e.css",
-    "src": "src/routes/index.css"
-  },
   "src/routes/__layout.css": {
     "file": "_app/immutable/assets/__layout-e7679ff5.css",
     "src": "src/routes/__layout.css"
+  },
+  "src/routes/index.css": {
+    "file": "_app/immutable/assets/index-5a66148e.css",
+    "src": "src/routes/index.css"
   }
 }
